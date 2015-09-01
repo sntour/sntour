@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/sntour/sntour/issues"
   },
-  "homepage": "https://github.com/sntour/sntour#readme"
+  "homepage": "https://github.com/sntour/sntour#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
